@@ -1,0 +1,19 @@
+- .col-md-x .offset-md-x: đẩy class sang phải x
+
+- tt autocomplete của form: xem có đc gợi nhắc trong các trường điền tt hay ko
+có 2 giá trị là on và off
+
+- Khi tạo form bằng bootstrap nên dùng class="form-group"
+còn thành phần thì cho thêm class="form-control"
+
+- top, left:
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Poppins', sans-serif;
+}
+ở đây top, left là khoảng cách từ rìa trang web (hoặc của thẻ mẹ)
+
+- box-shadow: https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
